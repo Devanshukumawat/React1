@@ -1,0 +1,15 @@
+.formcomp{
+    background-color: black;
+    color: white;
+    width: 500px;
+    height: 200px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.input:focus{
+    background-color: brown;
+    color: white;
+}

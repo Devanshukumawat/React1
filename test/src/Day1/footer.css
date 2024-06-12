@@ -1,0 +1,10 @@
+.footer{
+    background-image: linear-gradient(to left , yellow,brown,black,orange);
+    width: 100%;
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    margin-top: 20px;
+}
